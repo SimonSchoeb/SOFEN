@@ -2,6 +2,8 @@
 
 A playground for learning Java.
 
+
+Hallo Ale
 ## What is TwoDeeGrid?
 
 The `TwoDeeGrid` is a graphical environment for experimenting in Java. It consists of a Grid of square coloured cells that can be altered programmatically.
